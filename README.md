@@ -13,12 +13,11 @@ A PC or phone that can create a custom wireless hotspot
 
 # 📝 Incase you haven't modded your psp or you don't know how to,
 
-Check out my tutorial on how to mod your PSP [here](https://github.com/stfxn-303/Beginners-Guide-to-Modding-PSP3000)
+Check out my tutorial on how to mod your PSP [here](https://github.com/stfxn-303/Beginners-Guide-to-Modding-PSP3000) , come back here after you've done it :)
 
 # 📦 Files Included
 ```wpa2psp.prx``` — main plugin file
 
-```seplugins/ folder``` — includes sample plugin setup
 
 # 📥 Installation Steps
 Connect your PSP to your PC using USB mode.
